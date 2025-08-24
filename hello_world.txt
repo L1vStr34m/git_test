@@ -1,0 +1,5 @@
+Hello World was inclided in the exercise of the TheOdinProject
+So let's write a Hello Odin inside the text file 
+
+Fundations | TheOdinProject
+
